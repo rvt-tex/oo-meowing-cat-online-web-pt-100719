@@ -7,3 +7,5 @@ class Cat
   end 
 end 
 
+# line 2 we are defining the cat class
+# line 3 we are using macros 
